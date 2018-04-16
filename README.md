@@ -11,7 +11,7 @@
 
 <ul>
 <li>Facebook Login</li>
-<li><Firebase Login on Facebook Provider Authentication system implemented.</li>
+<li>Firebase Login on Facebook Provider Authentication system implemented.</li>
 <li>Load More Chat Messages </li>
 <li>Public Chat Room</li>
 <li>Easy configure project </li>
@@ -42,9 +42,8 @@
 <ul>
 <li>Twitter Login</li>
 <li>Instagram Login</li>
-<li>Private Chat System </li>
-<li>Backend: Firebase Real Time Database. its very good performance ! </li>
-
+<li>Private Secure Chat System </li>
+<li>Location Share,Media Share (image upload,screenshot on capture camera )
 </ul>
 
 
