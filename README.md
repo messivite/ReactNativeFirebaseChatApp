@@ -3,12 +3,18 @@
 <p align="center">
   <img src="https://i.imgur.com/JqdUyFk.png" width="350"/>
   <img src="https://i.imgur.com/OKjNFzV.png" width="350"/>
+
+</p>
+
+<p align="center">
     <img src="https://i.imgur.com/xnbxqkl.png" width="350"/>
+<img src="https://i.imgur.com/I2TNTEv.png" width="350"/>
 </p>
 <p align="center">
 
   <img src="https://i.imgur.com/4X4wec8.png" width="350"/>
-<img src="https://i.imgur.com/I2TNTEv.png" width="350"/>
+
+<img src="https://i.imgur.com/4X4wec8.png" width="350"/>
 <img src="https://i.imgur.com/P3smPHZ.png" width="350"/>
 
 
