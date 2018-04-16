@@ -1,7 +1,17 @@
 # ReactNativeFirebaseChatApp
+
 <p align="center">
-  <img src="https://i.imgur.com/xnbxqkl.png" width="350"/>
+  <img src="https://i.imgur.com/JqdUyFk.png" width="350"/>
+  <img src="https://i.imgur.com/OKjNFzV.png" width="350"/>
+    <img src="https://i.imgur.com/xnbxqkl.png" width="350"/>
+</p>
+<p align="center">
+
   <img src="https://i.imgur.com/4X4wec8.png" width="350"/>
+<img src="https://i.imgur.com/I2TNTEv.png" width="350"/>
+<img src="https://i.imgur.com/P3smPHZ.png" width="350"/>
+
+
 </p>
 
 <p align="center">
@@ -25,8 +35,8 @@
 
 
 <ul>
-<li><blackquote>git clone https://github.com/messivite/ReactNativeFirebaseChatApp .</blackquote></li>
-<li><blackquote>npm install --save</blackquote></li>
+<li><code>git clone https://github.com/messivite/ReactNativeFirebaseChatApp .</code></li>
+<li><code>npm install --save</code></li>
 
 <li>Create a Firebase Project (Authentication and Real Time Database ) </li>
 <li>You must do Modify "<strong>Config/config.js</strong>" file on your firebase project .  </li>
