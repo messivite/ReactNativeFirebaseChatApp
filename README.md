@@ -32,14 +32,17 @@
 <li>You must do Modify "<strong>Config/config.js</strong>" file on your firebase project .  </li>
 
 <li>Facebook Authentication ( React Native FacebookSDK )  </li>
-
+<li>You must do edit Info.Plist file.(please look at facebook application ios installion setup steps. ) </li>
 <li><strong>Create a Facebook Application</strong> on your developer account.</li>
+
+<li><code>react-native run-ios</code></li>
 </ul>
 
 
 <h2>Todo List</h2>
 
 <ul>
+<li>Implement to Android FacebookSDK Settings</li>
 <li>Twitter Login</li>
 <li>Instagram Login</li>
 <li>Private Secure Chat System </li>
